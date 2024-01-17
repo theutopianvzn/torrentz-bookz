@@ -7,3 +7,4 @@
 6. https://g.sicp.me/books/listing.html
 7. https://github.com/dariubs/GoBooks
 8. https://github.com/sindresorhus/awesome
+9. https://www.manning.com/books/elixir-in-action
