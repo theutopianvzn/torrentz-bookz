@@ -1,1 +1,9 @@
 # torrentz-bookz
+1. https://privacy.sexy/
+2. https://thewiki.moe/
+3. https://github.com/rShetty/awesome-podcasts
+4. https://fmhy.net/torrentpiracyguide
+5. https://g.sicp.me/books/
+6. https://g.sicp.me/books/listing.html
+7. https://github.com/dariubs/GoBooks
+8. https://github.com/sindresorhus/awesome
