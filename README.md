@@ -8,3 +8,15 @@
 7. https://github.com/dariubs/GoBooks
 8. https://github.com/sindresorhus/awesome
 9. https://www.manning.com/books/elixir-in-action
+1. https://boards.4chan.org/g/thread/98403878
+2. https://hmg.neocities.org/
+3. https://anonops.com/
+4. https://desuarchive.org/g/thread/95330193/#95330193
+5. https://desuarchive.org/g/thread/94774183/#94774183
+6. https://desuarchive.org/g/thread/94556214/#94556214
+7. https://desuarchive.org/g/thread/89065504/#89065504
+8. https://desuarchive.org/g/thread/94457238/#94457238
+9. https://desuarchive.org/g/thread/82727052/#82727052
+10. https://desuarchive.org/g/thread/75732568/#75732568
+11. https://desuarchive.org/g/thread/75564083/#75564083
+12. https://desuarchive.org/g/thread/75439041/#75439041
